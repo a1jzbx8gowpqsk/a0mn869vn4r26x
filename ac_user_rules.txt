@@ -1,0 +1,40 @@
+! Title: ac user rules
+! Version: 1.0.0.1
+! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/a0mn869vn4r26x/refs/heads/main/ac_user_rules.txt
+
+! Black and White - https://geopixels.net
+geopixels.net###\#FFFFFF
+geopixels.net###\#000000
+
+! Default User Rules
+@@||da.namu.la^$domain=arca.live
+@@||arca.live/api/*pagead?$xmlhttprequest
+arca.live#@#div.ad
+geopixels.net###resumePaintingControl
+geopixels.net###\#F4F59F
+geopixels.net###\#FFCA3A
+geopixels.net###\#FF9F1C
+geopixels.net###\#FF595E
+geopixels.net###\#E71D36
+geopixels.net###\#F3BBC2
+geopixels.net###\#FF85A1
+geopixels.net###\#BD637D
+geopixels.net###\#CDB4DB
+geopixels.net###\#6A4C93
+geopixels.net###\#4D194D
+geopixels.net###\#A8D0DC
+geopixels.net###\#2EC4B6
+geopixels.net###\#1A535C
+geopixels.net###\#6D9DCD
+geopixels.net###\#1982C4
+geopixels.net###\#A1C181
+geopixels.net###\#8AC926
+geopixels.net###\#A0A0A0
+geopixels.net###\#6B4226
+geopixels.net###\#505050
+geopixels.net###\#CFD078
+geopixels.net###\#145A7A
+geopixels.net###\#8B1D24
+geopixels.net###\#C07F7A
+geopixels.net###\#C49A6C
+geopixels.net###\#5B7B1C
