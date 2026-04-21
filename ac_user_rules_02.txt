@@ -1,7 +1,0 @@
-! Title: ac user rules 02
-! Version: 1.0.0.1
-! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/a0mn869vn4r26x/refs/heads/main/ac_user_rules_02.txt
-
-! Black and White - https://geopixels.net
-geopixels.net###\#FFFFFF
-geopixels.net###\#000000
